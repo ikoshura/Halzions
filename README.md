@@ -1,15 +1,5 @@
 <h1>🚀 Halzion: Ignite Your Project's Potential 🚀</h1>
 
-<div align="center">
-	<br>
-	<a href="https://github.com/ikoshura/Halzion/blame/main/header.svg">
-		<img src="header.svg" width="800" height="400">
-	</a>
-	<br>
-</div>
-
-<br>
-<br>
 
 <p>🌟 Halzion is a project management app meticulously designed to bring your passion projects to life. Our mission is to equip you with the necessary tools and resources to stay organized, motivated, and on track. 🌟</p>
 <p>With Halzion, you can:</p>
